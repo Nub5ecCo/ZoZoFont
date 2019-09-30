@@ -6,7 +6,7 @@ toilet -f slant -F gay "ZIZO FONT"
 sleep 0.30
 echo "\033[31;1m [★]================================================[★]"
 echo "\033[32;1m [-] Kang ReCode    : Dr.Zi20                       [-]"
-echo "\033[36;1m [★]Team     : Indonesia Security Lite              [★]"
+echo "\033[36;1m [★]Team     : Nub 5ec Comunity                     [★]"
 echo "\033[32;1m [-]Version  : 1.0                                  [-]"
 echo "\033[31;1m [★]================================================[★]"
 sleep 2
